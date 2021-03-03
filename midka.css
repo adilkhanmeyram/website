@@ -1,0 +1,212 @@
+body{
+    max-width: 1024px;
+    margin:auto;
+    font-family:Arial;
+}
+
+li a{
+    text-decoration: none;
+}
+
+.header{
+    background-image:url("file:///C:/Users/ASUS/YandexDisk/Скриншоты/bg-circles%20(4).jpg");
+    width:1000px;
+    height:450px;
+}
+
+.top{
+    display:flex;
+}
+
+.logo{
+
+}
+
+.navig ul{
+    margin-left:450px;
+}
+.navig li{
+    display:inline;
+    margin:10px;
+    font-size:16px;
+}
+
+.navig li a{
+    color:white;
+}
+
+.navig li a:hover{
+    color:darkgrey;
+}
+
+.join1{
+    color:white;
+    margin-left:550px;
+    margin-top:150px;
+    font-size:40px;
+    line-height:45px;
+}
+
+.join2{
+    color:white;
+    margin-left:550px;
+    margin-top:5px;
+    font-size:20px;
+}
+
+.join3{
+    margin-left:550px;
+    list-style: none;
+    margin-top: 30px;
+    border:solid white;
+    border-width:2px;
+    border-radius:5px;
+}
+
+.join3 li{
+    display: inline;
+}
+
+.join li a{
+    color:white;
+    font-size:40px;
+}
+
+.join li a:hover{
+    
+}
+
+.part2{
+    padding-bottom:50px;
+}
+
+.there{
+    margin-left:50px;
+    margin-top:40px;
+    font-size:30px;
+}
+
+.lorem{
+    margin:50px;
+    margin-top:20px;
+}
+
+.bgline{
+    margin-left:50px;
+}
+
+.part3{
+    display:flex;
+    
+}
+
+.seo{
+    background-color:#2d5f3b;
+    padding-bottom:30px;
+}
+
+.seo12{
+    display:flex;
+    padding-top:30px;
+    padding-left:30px;
+}
+
+.seo2{
+    color:white;
+    margin-left:15px;
+    margin-top:5px;
+    font-size:20px;
+}
+
+.seo3{
+    color:white;
+    margin:20px;
+    margin-top:10px;
+}
+
+.resp{
+    background-color:#f74c55;
+    padding-bottom:30px;
+}
+
+.resp12{
+    display:flex;
+    padding-top:30px;
+    padding-left:30px;
+}
+
+.resp2{
+    color:white;
+    margin-left:15px;
+    margin-top:5px;
+    font-size:20px;
+}
+
+.resp3{
+    color:white;
+    margin:20px;
+    margin-top:10px;
+}
+
+.cloud{
+    background-color:#2d5f3b;
+    padding-bottom:30px;
+}
+
+.cloud12{
+    display:flex;
+    padding-top:30px;
+    padding-left:30px;
+}
+
+.cloud2{
+    color:white;
+    margin-left:15px;
+    margin-top:5px;
+    font-size:20px;
+}
+
+.cloud3{
+    color:white;
+    margin:20px;
+    margin-top:10px;
+}
+
+.part4{
+    background-image:url("file:///C:/Users/ASUS/Google%20Диск/WEB/Midterm_Exam/Midterm_Exam/images/bg-nature.jpg");
+    padding:200px;
+}
+
+.part41{
+    color:white;
+    font-size:40px;
+    text-align:center;
+}
+
+.part42{
+    list-style:none;
+    text-align:center;
+    margin-top:40px;
+}
+
+.part42 li a{
+    text-decoration: none;
+    color:white;
+    font-size:30px;
+}
+
+.part42{
+     border:1px solid white; 
+}
+
+.bgline1{
+    margin-top:-10px;
+}
+
+.last{
+    text-align:center;
+    padding:20px;
+    color:grey;
+}
+
+
